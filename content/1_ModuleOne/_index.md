@@ -4,7 +4,7 @@ chapter: true
 weight: 1
 ---
 
-# Introduction
+# ✨ Introduction ✨
 
 ## Learning Objectives <!-- MODIFY THIS SUBHEADING -->
 
