@@ -1,5 +1,7 @@
 # StackHawk / Snyk AWS Modernization Workshop
 
+> While under development, this site is temporarily posted to https://kaakaww.github.io/aws-modernization-workshop-snyk-stackhawk/.
+
 This is an AWS Modernization Workshop that guides users through the process of setting up a build pipeline with automated DAST, SAST, and SCA security testing.
 
 ## Installing Hugo
