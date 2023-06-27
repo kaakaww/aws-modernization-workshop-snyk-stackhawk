@@ -54,11 +54,11 @@ git submodule update
 ## File Structure
 
 At the moment, we are not sure what the difference between `*.ee.md` and `*.md` files are, but let's keep these contents in-sync.
-Make your edits to `*.md`, then copy pasta (✨🍝✨)to `*.ee.md`.
+Make your edits to `*.md`, then copy pasta (✨🍝✨) to `*.ee.md`.
 
 ## Content Layout
 
-Module 1: What's the problem, what will we cover, who are the players, what will we do?
-Module 2: Any specific AWS things to setup
-Module 3: Partner Setup (How do you get rolling with StackHawk & Snyk)
-Module 4: The workshop content.
+* Module 1: What's the problem, what will we cover, who are the players, what will we do?
+* Module 2: Any specific AWS things to setup
+* Module 3: Partner Setup (How do you get rolling with StackHawk & Snyk)
+* Module 4: The workshop content.
