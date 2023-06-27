@@ -1,10 +1,10 @@
 ---
-title: "Partner Setup Instructions" # MODIFY THIS TITLE
+title: "Snyk Setup" # MODIFY THIS TITLE
 chapter: true
-weight: 1 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
+weight: 2 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
 ---
 
-# Partner Setup Instructions <!-- MODIFY THIS HEADING -->
+# Snyk Setup <!-- MODIFY THIS HEADING -->
 
 ## Submodule One Heading <!-- MODIFY THIS SUBHEADING -->
 
@@ -21,7 +21,6 @@ This paragraph block should be utilized to start the submodule. <br>
 
 ### Next Section OR Conclusion Heading <!-- MODIFY THIS HEADING -->
 This paragraph block can be utilized to lead into the next section of the workshop (which might be a conclusion) or be a conclusion itself.
-
 
 #### Example Guidance Content Below
 

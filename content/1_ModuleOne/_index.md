@@ -8,7 +8,15 @@ weight: 1
 
 ## Learning Objectives <!-- MODIFY THIS SUBHEADING -->
 
-This paragraph block should highlight the learning objectives of the workshop. A bulleted list works well for this purpose.
+**REMOVE:** This paragraph block should highlight the learning objectives of the workshop. A bulleted list works well for this purpose.
+
+Discover new security tooling to help move faster, safer.
+
+Modernize Your Security Tooling with:
+
+ * Snyk SCA
+ * Snyk SAST
+ * StackHawk DAST
 
 ## Workshop Structure <!-- MODIFY THIS SUBHEADING -->
 This paragraph block should be utilized to briefly explain the submodules that are going to be presented as well as the approximate total time for the workshop and individual submodules. <br>

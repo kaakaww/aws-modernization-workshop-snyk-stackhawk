@@ -1,10 +1,12 @@
 ---
-title: "Hugo Framework and Markdown"
+title: "Modern Security Testing"
 chapter: true
 weight: 4
 ---
 
-# Hugo Framework and Markdown
+Workshop words about modernizing your security testing. Do it all early and often!
+
+**REMOVE BELOW:** This is lingering words about how to use Hugo for the AWS workshop# Hugo Framework and Markdown
 <br>
 
 ### Setting Up The Workshop: AWS Hosted Or Self-paced

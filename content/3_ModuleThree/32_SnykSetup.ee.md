@@ -1,10 +1,10 @@
 ---
-title: "Partner Setup Instructions" # MODIFY THIS TITLE
+title: "Snyk Setup" # MODIFY THIS TITLE
 chapter: true
-weight: 1 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
+weight: 2 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
 ---
 
-# Partner Setup Instructions <!-- MODIFY THIS HEADING -->
+# Snyk Setup <!-- MODIFY THIS HEADING -->
 
 ## Submodule One Heading <!-- MODIFY THIS SUBHEADING -->
 
